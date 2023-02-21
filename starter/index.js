@@ -4,7 +4,13 @@ const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
 
 // array of questions for user
-const questions = [
+
+// Test the prompt with inquirer and prompt 
+// inquirer
+//   .prompt([
+
+
+ const questions = [   
     {
         type: "input",
         name: "title",
