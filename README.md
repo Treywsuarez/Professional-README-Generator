@@ -8,10 +8,9 @@ The Professional README Generator is a command-line application that allows user
 You can use the Professional README Generator to quickly and easily generate a professional README file for any project. Simply download the repo from GitHub, install the necessary dependencies using npm, and run the application in your terminal using Node.js.
 
 ## Demo
-<video width="640" height="480" controls>
-    <source src="https://www.youtube.com/embed/8h2MJSwExjc">
-    Your browser does not support the video tag.
-</video>
+[![Video](https://img.youtube.com/vi/video/0.jpg)](https://drive.google.com/file/d/1oTQpWIYXS2JMKk_07OMdrIyjrhIeJ3WL/preview)
+
+https://drive.google.com/file/d/1oTQpWIYXS2JMKk_07OMdrIyjrhIeJ3WL/view?usp=share_link
 
 ## Features
 The Professional README Generator offers the following features:
